@@ -15,7 +15,7 @@ Yapılması istenen sorgulamalar şu şekildedir:
 
 ## Installation
 Clone the project. 
-> https://github.com/miyendisa/SQL-Homework.git
+> https://github.com/miyendisa/SQL-select-where.git
 
 ---
 
